@@ -5,7 +5,9 @@ PyCitySchools Report
 Summary of Sample Analysis
 
 •	The higher the budgets, the test results were not higher.
+
 •	For math, the medium sized schools performed better than the larger schools.
+
 •	Charter Schools were better in performance than public district schools.
 
 
