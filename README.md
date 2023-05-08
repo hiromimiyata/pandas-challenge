@@ -1,6 +1,6 @@
 # pandas-challenge-Module 4 Challenge
 PyCitySchools Report
-
+Goal: To create and manipulate Pandas DataFrames to analyze school and standardized test data.
 
 # Summary of Sample Analysis 
 
